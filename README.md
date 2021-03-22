@@ -1,7 +1,11 @@
 <h2> Hi, I'm Sebastian Manrique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="350">
-<p><em>Systems Enginner Student at <a href="https://www.uis.edu.co">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://shf.com.co">SHF S.A.S</a>
+<p><em>Systems Enginner Student at <a href="https://www.uis.edu.co">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </br>
+  Full Stack Developer at <a href="https://shf.com.co">SHF S.A.S</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+   </br>
+  Scrum Master
 </em>
 </p>
 
