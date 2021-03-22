@@ -1,7 +1,6 @@
 <h2> Hi, I'm Sebastian Manrique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Systems Enginner at <a href="http://www.unb.br">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://shf.com.co">SHF S.A.S</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Systems Enginner at <a href="http://www.unb.br">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://shf.com.co">SHF S.A.S</a></p>
 
 [![Twitter: Sebasti75432075](https://img.shields.io/twitter/follow/Sebasti75432075?style=social)](https://twitter.com/Sebasti75432075)
 [![Linkedin: yhoan-sebastian-manrique-mu%C3%B1oz-687152191](https://img.shields.io/badge/-sebastianmanrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yhoan-sebastian-manrique-mu%C3%B1oz-687152191/)](https://www.linkedin.com/in/yhoan-sebastian-manrique-mu%C3%B1oz-687152191/)
