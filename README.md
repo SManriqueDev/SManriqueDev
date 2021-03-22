@@ -17,7 +17,7 @@ const sebastian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SASS, Python, Java, PHP, Dart],
   tools: [Vue, Angular, Vuex, Node, Storybook, Laravel, GraphQL, Jest, Docker, Nuxt, Ionic, Greensock, AWS Services, Flutter],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["Microservices", "Event-Driven", "Design System Pattern", "Backend For FrontEnd", "Bloc", "Scope Model"],
   
 }
 ```
