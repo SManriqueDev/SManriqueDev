@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sebastian Manrique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Systems Enginner at <a href="http://www.unb.br">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Systems Enginner at <a href="http://www.unb.br">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://shf.com.co">SHF S.A.S</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Sebasti75432075](https://img.shields.io/twitter/follow/Sebasti75432075?style=social)](https://twitter.com/Sebasti75432075)
@@ -19,7 +19,4 @@ const sebastian = {
   
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
