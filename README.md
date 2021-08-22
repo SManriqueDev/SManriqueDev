@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sebastian Manrique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="350"> -->
-<a href="https://app.daily.dev/inmortalregis"><img align='right' src="https://api.daily.dev/devcards/569d59657bcd4472865427ece8c1e8fe.png?r=5dw" width="400"  alt="Sebastian Manrique's Dev Card"/></a>
+<a href="https://app.daily.dev/inmortalregis"><img align='right' src="https://api.daily.dev/devcards/569d59657bcd4472865427ece8c1e8fe.png?r=5dw" width="250"  alt="Sebastian Manrique's Dev Card"/></a>
 <p><em>Systems Enginner Student at <a href="https://www.uis.edu.co">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
   Full Stack Developer at <a href="https://shf.com.co">SHF S.A.S</a>
