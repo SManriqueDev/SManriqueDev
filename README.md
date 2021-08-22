@@ -14,6 +14,8 @@
 [![GitHub Sebastian Manrique](https://img.shields.io/github/followers/inmortalregis?label=follow&style=social)](https://github.com/InmortalRegis)
 
 
+<a href="https://app.daily.dev/inmortalregis"><img src="https://api.daily.dev/devcards/569d59657bcd4472865427ece8c1e8fe.png?r=5dw" width="400" alt="Sebastian Manrique's Dev Card"/></a>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -26,5 +28,3 @@ const sebastian = {
 }
 ```
 ---
-
-<a href="https://app.daily.dev/inmortalregis"><img src="https://api.daily.dev/devcards/569d59657bcd4472865427ece8c1e8fe.png?r=5dw" width="400" alt="Sebastian Manrique's Dev Card"/></a>
