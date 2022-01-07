@@ -22,7 +22,7 @@
 const sebastian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SASS, Python, Java, PHP, Dart],
-  tools: [Vue, Angular, Vuex, Node, NestJS, Storybook, Laravel, GraphQL, Jest, Ionic, Docker, Nuxt, Ionic, Greensock, AWS Services, Flutter, RabbitMQ, Redis, TailwindCSS, Github Actions, Jira, Firebase, Arduino],
+  tools: [Vue 3, Angular 11, Vuex, Node, NestJS, Storybook, Laravel, GraphQL, Jest, Ionic, Docker, NuxtJS, Ionic, GreensockJS, AWS Services, Flutter, RabbitMQ, Redis, Vuetify, Bootstrap, TailwindCSS, Github Actions, Git, Jira, Firebase, Arduino, Lighthouse Framework, Strapi, Gatsby, Scrum],
   architecture: ["Microservices", "Event-Driven", "Design System Pattern", "Backend For FrontEnd", "Bloc", "Scope Model", "Getx", "Repository Pattern"],
 }
 ```
