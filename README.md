@@ -29,7 +29,14 @@ const sebastian = {
 ---
 
 
-![Metrics](https://metrics.lecoq.io/InmortalRegis?template=classic&isocalendar=1&languages=1&followup=1&lines=1&achievements=1&activity=1&repositories=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=America%2FBogota)
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/InmortalRegis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InmortalRegis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InmortalRegis&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
