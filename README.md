@@ -12,7 +12,7 @@
 </p>
 
 [![Twitter: Sebasti75432075](https://img.shields.io/twitter/follow/Sebasti75432075?style=social)](https://twitter.com/Sebasti75432075)
-[![Linkedin: yhoan-sebastian-manrique-mu%C3%B1oz-687152191](https://img.shields.io/badge/-sebastianmanrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yhoan-sebastian-manrique-mu%C3%B1oz-687152191/)](https://www.linkedin.com/in/yhoan-sebastian-manrique-mu%C3%B1oz-687152191/)
+[![Linkedin: yhoan-sebastian-manrique-mu%C3%B1oz-687152191](https://img.shields.io/badge/-sebastianmanrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-manrique/)](https://www.linkedin.com/in/sebastian-manrique/)
 [![GitHub Sebastian Manrique](https://img.shields.io/github/followers/SManriqueDev?label=follow&style=social)](https://github.com/SManriqueDev)
 
 
