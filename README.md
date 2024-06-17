@@ -5,8 +5,8 @@
 
 <p><em>Systems Enginner Student at <a href="https://www.uis.edu.co">Industrial University of Santander</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
-<!--   Full Stack Developer at <a href="https://dafiti.com.co">Dafiti</a> -->
-  Full Stack Developer SR.
+ Full Stack Developer at <a href="https://www.grupocibernos.com">Cibernos</a>
+<!--   Full Stack Developer SR. -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    </br>
   Scrum Master
