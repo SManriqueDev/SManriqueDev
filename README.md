@@ -9,7 +9,7 @@
 <!--   Full Stack Developer SR. -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    </br>
-  Scrum Master
+<!--   Scrum Master -->
 </em>
 </p>
 
