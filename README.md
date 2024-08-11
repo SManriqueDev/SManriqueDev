@@ -40,6 +40,7 @@ const sebastian = {
 </a>
 </p>
 
+[![An image of @smanriquedev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smanriquedev)](https://holopin.io/@smanriquedev)
 
 
 
