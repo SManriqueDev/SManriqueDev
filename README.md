@@ -7,10 +7,8 @@
 
 ### 👨‍💻 About Me
 - 🚀 **Full Stack Developer** con más de 6 años de experiencia creando soluciones tecnológicas innovadoras.
-- 🏢 Actualmente colaborando en proyectos como **ZBE**, **Smart Costa Blanca** y **Dinamiza.fans** en **Cibernos**.
 - 🌍 Portafolio personal: [sebastian-manrique.me](https://sebastian-manrique.me)
 - 🧠 Apasionado por la arquitectura de software, microservicios y sistemas dirigidos por eventos.
-
 ---
 
 ### 🛠️ Tech Stack
