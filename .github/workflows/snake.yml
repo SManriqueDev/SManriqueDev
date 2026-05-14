@@ -19,7 +19,7 @@ jobs:
       - name: Generate snake SVG
         run: node scripts/generate-snake.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           GITHUB_USER: SManriqueDev
 
       - uses: peaceiris/actions-gh-pages@v3

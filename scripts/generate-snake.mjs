@@ -19,7 +19,7 @@ async function fetchContributions(username, token, from, to) {
   const query = `
     query($login: String!, $from: DateTime!, $to: DateTime!) {
       user(login: $login) {
-        contributionsCollection(from: $from, to: $to) {
+        contributionsCollection(from: $from, to: $to, includePrivateContributions: true) {
           contributionCalendar {
             weeks {
               contributionDays {
